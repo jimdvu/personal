@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">My Story</h2>
-                    <p>I am a computer science graduate from Wichita State University. I have a range of experience working in small startup companies, to large private corporations. I enjoy developing mobile/web applications, AI/computer vision projects, and exploring new technologies! In my spare time, I enjoy being outdoors playing golf, hiking, fishing, jet skiing, and flying drones! I have recently also picked up vlogging, so check out my youtube for a more indepth look into my life. Thanks for coming!</p>
+                    <p>I am a computer science graduate from Wichita State University. I have a range of experience working in small startup companies, to large private corporations. In my time as a developer, I have built multiple mobile and web applications. I have also had the opportunity to work with Nvidia's Jetson TX2s and various technologies in developing simulated and real world computer vision mapping software for autonomous vehicles.<br>In my spare time, I enjoy being outdoors playing golf, hiking, fishing, jet skiing, and flying drones! I have recently also picked up vlogging, so check out my youtube for a more in depth look into my life. Thanks for coming!</p>
                     </div>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and applications using JavaScript, TypeScript, React, HTML, CSS.</p>
+                    <p>I have experience building websites and applications using multiple different technologies. Professionally, I have used HTML, SCSS, React, TypeScript, and JavaScript. Many of these technologies part of the Ionic framework and React libraries. This website is built in React!</p>
                 </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>Graduating with a computer science degree and minor in mathematics, I have a solid understanding of DSA. </p>
+                    <p>I graduated from Wichita State with a computer science degree and a minor in math. Through my studies and coursework, I have a strong fundamental of object oriented programming practices, and data structures and algorithms.</p>
                 </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Engineering</h3>
-                    <p>Through past internships and projects, I have experience working on creating data pipelines through cloud technologies like Boomi, .NET, and AWS DataLakes.</p>
+                    <p>Through past internships and projects, I have experience working on creating data pipelines through cloud technologies. I have familiarity regarding modern technologies such as Boomi, .NET, AWS datalakes, automica, informatica, and denodo.</p>
                 </div>
                 </div>
             </div>
